@@ -1,0 +1,97 @@
+{
+  "input_source": "Synthetic coefficient dictionaries; no camera or MediaPipe inference tested",
+  "demo_frames": [
+    {
+      "frame": 30,
+      "label": "BROWS",
+      "max_control_error": 2.384185793236071e-08,
+      "pass": true
+    },
+    {
+      "frame": 75,
+      "label": "FROWN",
+      "max_control_error": 1.1920928910669204e-08,
+      "pass": true
+    },
+    {
+      "frame": 120,
+      "label": "SMILE",
+      "max_control_error": 2.980232227667301e-09,
+      "pass": true
+    },
+    {
+      "frame": 165,
+      "label": "SQUINT",
+      "max_control_error": 1.1920928910669204e-08,
+      "pass": true
+    },
+    {
+      "frame": 210,
+      "label": "BLINK_BOTH",
+      "max_control_error": 0.0,
+      "pass": true
+    },
+    {
+      "frame": 240,
+      "label": "BLINK_LEFT",
+      "max_control_error": 0.0,
+      "pass": true
+    },
+    {
+      "frame": 270,
+      "label": "BLINK_RIGHT",
+      "max_control_error": 0.0,
+      "pass": true
+    },
+    {
+      "frame": 315,
+      "label": "JAW_OPEN",
+      "max_control_error": 1.1920928910669204e-08,
+      "pass": true
+    },
+    {
+      "frame": 360,
+      "label": "PUCKER",
+      "max_control_error": 1.1920928910669204e-08,
+      "pass": true
+    },
+    {
+      "frame": 405,
+      "label": "FUNNEL",
+      "max_control_error": 2.384185793236071e-08,
+      "pass": true
+    },
+    {
+      "frame": 450,
+      "label": "GAZE_LEFT",
+      "max_control_error": 1.1920928910669204e-08,
+      "pass": true
+    },
+    {
+      "frame": 480,
+      "label": "GAZE_UP",
+      "max_control_error": 1.1920928910669204e-08,
+      "pass": true
+    },
+    {
+      "frame": 525,
+      "label": "SMILE_AND_JAW",
+      "max_control_error": 1.1920928966180355e-08,
+      "pass": true
+    },
+    {
+      "frame": 570,
+      "label": "SPEECH_E",
+      "max_control_error": 1.1920928910669204e-08,
+      "pass": true
+    }
+  ],
+  "smoothed_response": {
+    "jawOpen": 0.5999998164586077,
+    "browInnerUp": 0.49999984704883976,
+    "eyeLookOutLeft": 0.3999998776390718
+  },
+  "tracking_loss_max_value": 5.6145720637929896e-14,
+  "nonfinite_input_max_value": 0.0,
+  "pass": true
+}

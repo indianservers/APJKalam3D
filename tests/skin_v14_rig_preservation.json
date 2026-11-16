@@ -1,0 +1,11 @@
+{
+  "bones": 87,
+  "face_targets": 51,
+  "hand_vertices": [
+    2403,
+    2403
+  ],
+  "skin_v14": true,
+  "all_finger_bones_present": true,
+  "face_topology_and_drivers_preserved": true
+}

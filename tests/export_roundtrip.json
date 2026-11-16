@@ -1,0 +1,195 @@
+{
+  "bones": 59,
+  "morph_targets": 7,
+  "animation_displacement_m": 0.032803240432962955,
+  "checks": [
+    {
+      "morph": "browInnerUp",
+      "displacement_m": 0.005277196463784806,
+      "pass": true
+    },
+    {
+      "morph": "browOuterUpLeft",
+      "displacement_m": 0.005409717538799153,
+      "pass": true
+    },
+    {
+      "morph": "browOuterUpRight",
+      "displacement_m": 0.005651712493035542,
+      "pass": true
+    },
+    {
+      "morph": "browDownLeft",
+      "displacement_m": 0.0048554078443074555,
+      "pass": true
+    },
+    {
+      "morph": "browDownRight",
+      "displacement_m": 0.0050725320556619935,
+      "pass": true
+    },
+    {
+      "morph": "mouthSmileLeft",
+      "displacement_m": 0.004574707647590471,
+      "pass": true
+    },
+    {
+      "morph": "mouthSmileRight",
+      "displacement_m": 0.004757366731571021,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandIndex1",
+      "displacement_m": 0.029364743259909534,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandIndex2",
+      "displacement_m": 0.017594876243765455,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandIndex3",
+      "displacement_m": 0.006732843330391917,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandMiddle1",
+      "displacement_m": 0.031661207324177744,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandMiddle2",
+      "displacement_m": 0.017640667605985167,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandMiddle3",
+      "displacement_m": 0.006858431857834914,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandPinky1",
+      "displacement_m": 0.02948572510085389,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandPinky2",
+      "displacement_m": 0.018768301180455527,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandPinky3",
+      "displacement_m": 0.00747455788044594,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandRing1",
+      "displacement_m": 0.03189494259017354,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandRing2",
+      "displacement_m": 0.019298933876951002,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandRing3",
+      "displacement_m": 0.008664316030937903,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandThumb1",
+      "displacement_m": 0.02760340657939439,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandThumb2",
+      "displacement_m": 0.015215233660000032,
+      "pass": true
+    },
+    {
+      "joint": "LeftHandThumb3",
+      "displacement_m": 0.005326631146458189,
+      "pass": true
+    },
+    {
+      "joint": "RightHandIndex1",
+      "displacement_m": 0.030156597108426754,
+      "pass": true
+    },
+    {
+      "joint": "RightHandIndex2",
+      "displacement_m": 0.018387942231400414,
+      "pass": true
+    },
+    {
+      "joint": "RightHandIndex3",
+      "displacement_m": 0.007581617058888284,
+      "pass": true
+    },
+    {
+      "joint": "RightHandMiddle1",
+      "displacement_m": 0.0317452724386344,
+      "pass": true
+    },
+    {
+      "joint": "RightHandMiddle2",
+      "displacement_m": 0.017710712976222436,
+      "pass": true
+    },
+    {
+      "joint": "RightHandMiddle3",
+      "displacement_m": 0.006755915195330612,
+      "pass": true
+    },
+    {
+      "joint": "RightHandPinky1",
+      "displacement_m": 0.02933815296754566,
+      "pass": true
+    },
+    {
+      "joint": "RightHandPinky2",
+      "displacement_m": 0.01853878730488373,
+      "pass": true
+    },
+    {
+      "joint": "RightHandPinky3",
+      "displacement_m": 0.0071731202436541115,
+      "pass": true
+    },
+    {
+      "joint": "RightHandRing1",
+      "displacement_m": 0.03193872964745482,
+      "pass": true
+    },
+    {
+      "joint": "RightHandRing2",
+      "displacement_m": 0.01933882935285707,
+      "pass": true
+    },
+    {
+      "joint": "RightHandRing3",
+      "displacement_m": 0.008669488194388071,
+      "pass": true
+    },
+    {
+      "joint": "RightHandThumb1",
+      "displacement_m": 0.027526350889661627,
+      "pass": true
+    },
+    {
+      "joint": "RightHandThumb2",
+      "displacement_m": 0.015247549823944563,
+      "pass": true
+    },
+    {
+      "joint": "RightHandThumb3",
+      "displacement_m": 0.005338451697888163,
+      "pass": true
+    }
+  ],
+  "pass": true,
+  "wrinkle_shader_exported": false,
+  "production_quality_certified": false
+}

@@ -1,0 +1,32 @@
+{
+  "sculpt": {
+    "APJ_Face": {
+      "max_displacement_m": 0.00387392132740633,
+      "moved_vertices": 9202
+    },
+    "char1": {
+      "max_displacement_m": 0.0038730179238073512,
+      "moved_vertices": 1420
+    },
+    "APJ_v5_Skin_Transition_Underlay": {
+      "max_displacement_m": 0.00387392132740633,
+      "moved_vertices": 9204
+    }
+  },
+  "strand_ribbons": 2640,
+  "hair_vertices": 120480,
+  "hair_faces": 57600,
+  "mouth_delta_m": [
+    2.2015258478377142e-16,
+    0.0,
+    -0.0009794976795092225
+  ],
+  "face_targets": 51,
+  "bone_count": 87,
+  "source": "Exact user-supplied appearance image",
+  "limitations": [
+    "Single portrait cannot specify hidden depth",
+    "Existing head join still needs topology cleanup",
+    "No exact multiview likeness score claimed"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "meshes": {
+    "APJ_Hand_Left": {
+      "vertices": 9684,
+      "targets": 0
+    },
+    "APJ_Hand_Right": {
+      "vertices": 9684,
+      "targets": 0
+    },
+    "APJ_Face": {
+      "vertices": 36306,
+      "targets": 51
+    },
+    "char1": {
+      "vertices": 27293,
+      "targets": 7
+    }
+  },
+  "bytes": 67717232,
+  "note": "Subdivided skin and targets; source unwelded facial seam remains."
+}

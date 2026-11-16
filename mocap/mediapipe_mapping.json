@@ -1,0 +1,42 @@
+{
+  "status": "partial development mapping; not full Face Landmarker compatibility",
+  "coefficients": {
+    "browInnerUp": {
+      "shape_key": "browInnerUp",
+      "status": "prototype, visual approval required"
+    },
+    "browOuterUpLeft": {
+      "shape_key": "browOuterUpLeft",
+      "status": "prototype, visual approval required"
+    },
+    "browOuterUpRight": {
+      "shape_key": "browOuterUpRight",
+      "status": "prototype, visual approval required"
+    },
+    "browDownLeft": {
+      "shape_key": "browDownLeft",
+      "status": "prototype, visual approval required"
+    },
+    "browDownRight": {
+      "shape_key": "browDownRight",
+      "status": "prototype, visual approval required"
+    },
+    "mouthSmileLeft": {
+      "shape_key": "mouthSmileLeft",
+      "status": "prototype, visual approval required"
+    },
+    "mouthSmileRight": {
+      "shape_key": "mouthSmileRight",
+      "status": "prototype, visual approval required"
+    }
+  },
+  "unsupported": "All other coefficients, including blink, gaze, jaw and lip speech controls",
+  "body": "motion_retargeting.BODY",
+  "hands": "motion_retargeting.HAND",
+  "limitations": [
+    "calibration required",
+    "swing-only landmarks cannot infer twist",
+    "no tested camera input",
+    "wrinkle shader does not export"
+  ]
+}

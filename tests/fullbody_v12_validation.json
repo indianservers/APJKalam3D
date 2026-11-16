@@ -1,0 +1,77 @@
+{
+  "production_ready": false,
+  "live_camera_tested": false,
+  "tests": {
+    "standing": {
+      "left_arm_down": [
+        0.23106347024440765,
+        -0.06931918859481812,
+        -0.9704661965370178
+      ],
+      "right_arm_down": [
+        -0.2310636192560196,
+        -0.0693189948797226,
+        -0.9704662561416626
+      ],
+      "pass": true
+    },
+    "seated": {
+      "thigh_direction": [
+        0.08785764873027802,
+        -0.9957025051116943,
+        -0.029285607859492302
+      ],
+      "shin_direction": [
+        0.02775443159043789,
+        -3.873376499541337e-06,
+        -0.9996147751808167
+      ],
+      "hip_knee_angle_degrees": 88.18246867577027,
+      "body_bounds": [
+        [
+          -0.2833435535430908,
+          0.2715197205543518
+        ],
+        [
+          -0.4971122145652771,
+          0.18598879873752594
+        ],
+        [
+          5.3229417972033843e-05,
+          1.3393559455871582
+        ]
+      ],
+      "pass": true
+    },
+    "digits_open": {
+      "joint_count": 30,
+      "nonzero_joint_count": 10,
+      "finite": true,
+      "pass": true
+    },
+    "digits_fist": {
+      "joint_count": 30,
+      "nonzero_joint_count": 30,
+      "finite": true,
+      "pass": true
+    },
+    "confidence_recovery": {
+      "maximum_limb_rotation_radians": 0.0,
+      "pass": true
+    },
+    "neutral_reset": {
+      "max_limb_angle": 0.0,
+      "pass": true
+    },
+    "arms_without_visible_hips": {
+      "direction_dots": {
+        "LeftArm": 1.0000000284053385,
+        "LeftForeArm": 1.0,
+        "RightArm": 0.9999999040737748,
+        "RightForeArm": 0.9999999403953552
+      },
+      "pass": true
+    }
+  },
+  "all_pass": true
+}

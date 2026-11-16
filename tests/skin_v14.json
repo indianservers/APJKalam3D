@@ -1,0 +1,81 @@
+{
+  "source_resolution": [
+    1254,
+    1254
+  ],
+  "generated_sources": [
+    "textures/skin_v14/face_photographic_source.png",
+    "textures/skin_v14/aged_hand_microcolor.png"
+  ],
+  "uv_fit_error": 0.0009311903938895265,
+  "bakes": {
+    "APJ_Face": {
+      "Color": {
+        "path": "C:\\Abdul Kalam/textures/skin_v14/APJ14_APJ_Face_Color.png",
+        "resolution": 2048
+      },
+      "Roughness": {
+        "path": "C:\\Abdul Kalam/textures/skin_v14/APJ14_APJ_Face_Roughness.png",
+        "resolution": 2048
+      },
+      "Normal": {
+        "path": "C:\\Abdul Kalam/textures/skin_v14/APJ14_APJ_Face_Normal.png",
+        "resolution": 2048
+      }
+    },
+    "APJ_Hand_Left": {
+      "Color": {
+        "path": "C:\\Abdul Kalam/textures/skin_v14/APJ14_APJ_Hand_Left_Color.png",
+        "resolution": 2048
+      },
+      "Roughness": {
+        "path": "C:\\Abdul Kalam/textures/skin_v14/APJ14_APJ_Hand_Left_Roughness.png",
+        "resolution": 2048
+      },
+      "Normal": {
+        "path": "C:\\Abdul Kalam/textures/skin_v14/APJ14_APJ_Hand_Left_Normal.png",
+        "resolution": 2048
+      }
+    },
+    "APJ_Hand_Right": {
+      "Color": {
+        "path": "C:\\Abdul Kalam/textures/skin_v14/APJ14_APJ_Hand_Right_Color.png",
+        "resolution": 2048
+      },
+      "Roughness": {
+        "path": "C:\\Abdul Kalam/textures/skin_v14/APJ14_APJ_Hand_Right_Roughness.png",
+        "resolution": 2048
+      },
+      "Normal": {
+        "path": "C:\\Abdul Kalam/textures/skin_v14/APJ14_APJ_Hand_Right_Normal.png",
+        "resolution": 2048
+      }
+    },
+    "char1": {
+      "Color": {
+        "path": "C:\\Abdul Kalam/textures/skin_v14/APJ14_char1_Color.png",
+        "resolution": 2048
+      },
+      "Roughness": {
+        "path": "C:\\Abdul Kalam/textures/skin_v14/APJ14_char1_Roughness.png",
+        "resolution": 2048
+      },
+      "Normal": {
+        "path": "C:\\Abdul Kalam/textures/skin_v14/APJ14_char1_Normal.png",
+        "resolution": 2048
+      }
+    }
+  },
+  "geometry_changed": "Subtle hand dorsal tendon/MCP relief only; face and rig topology unchanged",
+  "notes": [
+    "Generated reconstruction, not a measured skin scan",
+    "Normal and roughness are included in the browser asset",
+    "Subsurface scattering is available in Blender; browser uses standard PBR",
+    "Realism remains limited by the existing head join and hand forms"
+  ],
+  "hand_relief_report": "tests/hand_tissue_v14.json",
+  "final_saturation": 1.0,
+  "face_value": 0.8,
+  "hand_value": 0.78,
+  "runtime_asset": "webapp/assets/apj_runtime_v14.glb"
+}

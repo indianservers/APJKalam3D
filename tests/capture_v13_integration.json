@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-16",
+  "camera": "Lenovo FHD Webcam (17ef:4831)",
+  "observed_live_body_hand_face_signals": true,
+  "live_frames_reached_blender": true,
+  "observed_gpu_detector_fps_range": [
+    18,
+    27
+  ],
+  "fps_is_end_to_end": false,
+  "live_fullbody_seated_match_verified": false,
+  "limitations": [
+    "User must be fully visible for standing height calibration",
+    "Single-camera occlusion and twist ambiguity",
+    "Unwelded head/face join",
+    "Cloth intersections need artist cleanup"
+  ],
+  "functional_evidence": [
+    "tests/fullbody_v12_validation.json",
+    "tests/capture_v13_facial_validation.json"
+  ],
+  "web_http_and_export_checks": "9 passed; all 51 face targets have nonzero deltas",
+  "master": "blender/apj_capture_v13_master.blend",
+  "web_runtime": "webapp/assets/apj_runtime_v13.glb"
+}

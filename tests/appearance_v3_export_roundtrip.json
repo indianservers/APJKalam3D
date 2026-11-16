@@ -1,0 +1,103 @@
+{
+  "bones": 59,
+  "facial_shapes": [
+    "Basis",
+    "browInnerUp",
+    "browOuterUpLeft",
+    "browOuterUpRight",
+    "browDownLeft",
+    "browDownRight",
+    "mouthSmileLeft",
+    "mouthSmileRight"
+  ],
+  "hands": 2,
+  "nails": 10,
+  "materials": [
+    {
+      "material": "APJ_v3_Export_Head.002",
+      "images": [
+        {
+          "name": "APJ_v3_Baked_Albedo_4K.001",
+          "size": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "name": "APJ_v3_Baked_Roughness_4K.001",
+          "size": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "name": "APJ_v3_Baked_Normal_4K.001",
+          "size": [
+            4096,
+            4096
+          ]
+        }
+      ],
+      "has_normal_node": true
+    },
+    {
+      "material": "APJ_v3_Export_Fabric.002",
+      "images": [
+        {
+          "name": "APJ_v3_Baked_Albedo_4K.001",
+          "size": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "name": "APJ_v3_Baked_Roughness_4K.001",
+          "size": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "name": "APJ_v3_Baked_Normal_4K.001",
+          "size": [
+            4096,
+            4096
+          ]
+        }
+      ],
+      "has_normal_node": true
+    },
+    {
+      "material": "APJ_v3_Export_Leather.002",
+      "images": [
+        {
+          "name": "APJ_v3_Baked_Albedo_4K.001",
+          "size": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "name": "APJ_v3_Baked_Roughness_4K.001",
+          "size": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "name": "APJ_v3_Baked_Normal_4K.001",
+          "size": [
+            4096,
+            4096
+          ]
+        }
+      ],
+      "has_normal_node": true
+    }
+  ],
+  "face_deformation_m": 0.005277196463784806,
+  "finger_deformation_m": 0.02287764029122547,
+  "body_vertex_colors": 0,
+  "pass": true,
+  "scope": "Blender glTF reimport, texture presence and sampled deformation. Not a photorealism or performance certification."
+}

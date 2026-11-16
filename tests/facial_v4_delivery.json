@@ -1,0 +1,26 @@
+{
+  "master": "blender/apj_facial_v4_master.blend",
+  "face_mesh": "APJ_Face",
+  "quad_faces": 8948,
+  "vertices": 9204,
+  "expression_shapes": 43,
+  "wrinkle_correctives": 6,
+  "gaze_coefficients": 8,
+  "implicit_neutral": true,
+  "rig_bones": 62,
+  "jaw_bone": "Jaw",
+  "eye_bones": [
+    "Eye.L",
+    "Eye.R"
+  ],
+  "demo": {
+    "action": "APJ_Facial_v4_Demonstration",
+    "start": 1,
+    "end": 600,
+    "fps": 30
+  },
+  "validation_report": "tests/facial_v4_validation.json",
+  "mapping": "mocap/facial_v4_mapping.json",
+  "export_note": "Previous v3 GLB is preserved and does not include v4 facial reconstruction. Blender contact corrections and drivers need a separate export bake.",
+  "production_ready": false
+}

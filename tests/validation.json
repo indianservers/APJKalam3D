@@ -1,0 +1,304 @@
+{
+  "production_ready": false,
+  "tests": [
+    {
+      "control": "LeftHandThumb1",
+      "max_vertex_displacement_m": 0.027603165591990643,
+      "moved_vertices": 36,
+      "pass": true
+    },
+    {
+      "control": "LeftHandThumb2",
+      "max_vertex_displacement_m": 0.015213873209297743,
+      "moved_vertices": 36,
+      "pass": true
+    },
+    {
+      "control": "LeftHandThumb3",
+      "max_vertex_displacement_m": 0.005326010599607422,
+      "moved_vertices": 32,
+      "pass": true
+    },
+    {
+      "control": "LeftHandIndex1",
+      "max_vertex_displacement_m": 0.029364705631884497,
+      "moved_vertices": 48,
+      "pass": true
+    },
+    {
+      "control": "LeftHandIndex2",
+      "max_vertex_displacement_m": 0.017594274178586167,
+      "moved_vertices": 46,
+      "pass": true
+    },
+    {
+      "control": "LeftHandIndex3",
+      "max_vertex_displacement_m": 0.006732577736345185,
+      "moved_vertices": 31,
+      "pass": true
+    },
+    {
+      "control": "LeftHandMiddle1",
+      "max_vertex_displacement_m": 0.031661075644664076,
+      "moved_vertices": 56,
+      "pass": true
+    },
+    {
+      "control": "LeftHandMiddle2",
+      "max_vertex_displacement_m": 0.017640667613518537,
+      "moved_vertices": 54,
+      "pass": true
+    },
+    {
+      "control": "LeftHandMiddle3",
+      "max_vertex_displacement_m": 0.006858185907366881,
+      "moved_vertices": 41,
+      "pass": true
+    },
+    {
+      "control": "LeftHandRing1",
+      "max_vertex_displacement_m": 0.03189494259717705,
+      "moved_vertices": 45,
+      "pass": true
+    },
+    {
+      "control": "LeftHandRing2",
+      "max_vertex_displacement_m": 0.019298857198641765,
+      "moved_vertices": 44,
+      "pass": true
+    },
+    {
+      "control": "LeftHandRing3",
+      "max_vertex_displacement_m": 0.0086643160312148,
+      "moved_vertices": 35,
+      "pass": true
+    },
+    {
+      "control": "LeftHandPinky1",
+      "max_vertex_displacement_m": 0.029485936328401723,
+      "moved_vertices": 37,
+      "pass": true
+    },
+    {
+      "control": "LeftHandPinky2",
+      "max_vertex_displacement_m": 0.018768038724216195,
+      "moved_vertices": 37,
+      "pass": true
+    },
+    {
+      "control": "LeftHandPinky3",
+      "max_vertex_displacement_m": 0.0074745443487846605,
+      "moved_vertices": 32,
+      "pass": true
+    },
+    {
+      "control": "RightHandThumb1",
+      "max_vertex_displacement_m": 0.027526104783608653,
+      "moved_vertices": 44,
+      "pass": true
+    },
+    {
+      "control": "RightHandThumb2",
+      "max_vertex_displacement_m": 0.015246225206302375,
+      "moved_vertices": 44,
+      "pass": true
+    },
+    {
+      "control": "RightHandThumb3",
+      "max_vertex_displacement_m": 0.005337949981481234,
+      "moved_vertices": 39,
+      "pass": true
+    },
+    {
+      "control": "RightHandIndex1",
+      "max_vertex_displacement_m": 0.030156484573444352,
+      "moved_vertices": 41,
+      "pass": true
+    },
+    {
+      "control": "RightHandIndex2",
+      "max_vertex_displacement_m": 0.018387942231400414,
+      "moved_vertices": 41,
+      "pass": true
+    },
+    {
+      "control": "RightHandIndex3",
+      "max_vertex_displacement_m": 0.007581617058888284,
+      "moved_vertices": 27,
+      "pass": true
+    },
+    {
+      "control": "RightHandMiddle1",
+      "max_vertex_displacement_m": 0.03174515325487069,
+      "moved_vertices": 55,
+      "pass": true
+    },
+    {
+      "control": "RightHandMiddle2",
+      "max_vertex_displacement_m": 0.017710474703143915,
+      "moved_vertices": 50,
+      "pass": true
+    },
+    {
+      "control": "RightHandMiddle3",
+      "max_vertex_displacement_m": 0.00675591517784553,
+      "moved_vertices": 40,
+      "pass": true
+    },
+    {
+      "control": "RightHandRing1",
+      "max_vertex_displacement_m": 0.03193886501644909,
+      "moved_vertices": 40,
+      "pass": true
+    },
+    {
+      "control": "RightHandRing2",
+      "max_vertex_displacement_m": 0.019338696802625396,
+      "moved_vertices": 40,
+      "pass": true
+    },
+    {
+      "control": "RightHandRing3",
+      "max_vertex_displacement_m": 0.008669602725723997,
+      "moved_vertices": 30,
+      "pass": true
+    },
+    {
+      "control": "RightHandPinky1",
+      "max_vertex_displacement_m": 0.02933803294849537,
+      "moved_vertices": 37,
+      "pass": true
+    },
+    {
+      "control": "RightHandPinky2",
+      "max_vertex_displacement_m": 0.018538549768124198,
+      "moved_vertices": 37,
+      "pass": true
+    },
+    {
+      "control": "RightHandPinky3",
+      "max_vertex_displacement_m": 0.007173121934483007,
+      "moved_vertices": 33,
+      "pass": true
+    },
+    {
+      "control": "Head",
+      "max_vertex_displacement_m": 0.07458381410019856,
+      "moved_vertices": 2048,
+      "pass": true
+    },
+    {
+      "control": "neck",
+      "max_vertex_displacement_m": 0.09485952228040122,
+      "moved_vertices": 2060,
+      "pass": true
+    },
+    {
+      "control": "LeftArm",
+      "max_vertex_displacement_m": 0.19272555416142348,
+      "moved_vertices": 779,
+      "pass": true
+    },
+    {
+      "control": "RightArm",
+      "max_vertex_displacement_m": 0.18879860704882906,
+      "moved_vertices": 744,
+      "pass": true
+    },
+    {
+      "control": "LeftForeArm",
+      "max_vertex_displacement_m": 0.12876752546837877,
+      "moved_vertices": 594,
+      "pass": true
+    },
+    {
+      "control": "RightForeArm",
+      "max_vertex_displacement_m": 0.12835749987914022,
+      "moved_vertices": 553,
+      "pass": true
+    },
+    {
+      "control": "LeftUpLeg",
+      "max_vertex_displacement_m": 0.2888554793422037,
+      "moved_vertices": 944,
+      "pass": true
+    },
+    {
+      "control": "RightUpLeg",
+      "max_vertex_displacement_m": 0.28856265360350414,
+      "moved_vertices": 931,
+      "pass": true
+    },
+    {
+      "control": "LeftLeg",
+      "max_vertex_displacement_m": 0.17201432566844801,
+      "moved_vertices": 481,
+      "pass": true
+    },
+    {
+      "control": "RightLeg",
+      "max_vertex_displacement_m": 0.17161269160871648,
+      "moved_vertices": 480,
+      "pass": true
+    },
+    {
+      "control": "browInnerUp",
+      "max_vertex_displacement_m": 0.005277196463784806,
+      "moved_vertices": 222,
+      "pass": true
+    },
+    {
+      "control": "browOuterUpLeft",
+      "max_vertex_displacement_m": 0.005409717538799153,
+      "moved_vertices": 89,
+      "pass": true
+    },
+    {
+      "control": "browOuterUpRight",
+      "max_vertex_displacement_m": 0.005651712493035542,
+      "moved_vertices": 172,
+      "pass": true
+    },
+    {
+      "control": "browDownLeft",
+      "max_vertex_displacement_m": 0.0048554078443074555,
+      "moved_vertices": 88,
+      "pass": true
+    },
+    {
+      "control": "browDownRight",
+      "max_vertex_displacement_m": 0.005072530688514786,
+      "moved_vertices": 172,
+      "pass": true
+    },
+    {
+      "control": "mouthSmileLeft",
+      "max_vertex_displacement_m": 0.004574707647590471,
+      "moved_vertices": 62,
+      "pass": true
+    },
+    {
+      "control": "mouthSmileRight",
+      "max_vertex_displacement_m": 0.004757366731571021,
+      "moved_vertices": 63,
+      "pass": true
+    }
+  ],
+  "all_deformation_tests_pass": true,
+  "unweighted_vertices": 0,
+  "max_weight_sum_error": 4.016328603029251e-08,
+  "wrinkle_strength_neutral": 0.11999999731779099,
+  "wrinkle_strength_raised": 0.7699999809265137,
+  "wrinkle_driver_pass": true,
+  "missing_textures": [],
+  "unsupported": [
+    "independent eyeballs",
+    "eyelid contact",
+    "speech / mouth interior",
+    "52 production facial targets",
+    "hair cards",
+    "anatomical corrective deformation",
+    "live webcam test"
+  ],
+  "test_scope": "Evaluated vertex movement only; does not certify anatomical or visual quality"
+}

@@ -1,0 +1,21 @@
+.venv-facefit/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.blend1
+*.blend2
+.env
+.env.*
+!.env.example
+
+mocap/capture_state.json
+mocap/live_camera_status.json
+
+# Earlier model versions remain local.
+/blender/*
+!/blender/apj_reference_v15_master.blend
+/exports/*.glb
+/webapp/assets/apj_runtime_v*.glb
+!/webapp/assets/apj_runtime_v15.glb
+/*.fbx

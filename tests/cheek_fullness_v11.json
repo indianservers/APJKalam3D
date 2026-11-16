@@ -1,0 +1,15 @@
+{
+  "changes": {
+    "APJ_Face": {
+      "max_displacement_m": 0.0014566229980194879
+    },
+    "char1": {
+      "max_displacement_m": 0.0014210498715641886
+    },
+    "APJ_v5_Skin_Transition_Underlay": {
+      "max_displacement_m": 0.0014566229980194879
+    }
+  },
+  "targets_preserved": 51,
+  "note": "Subtle cheek and lower-face fullness. Existing overlapping head join retained."
+}

@@ -1,0 +1,44 @@
+{
+  "Studio_Key": {
+    "old_position": [
+      -2.0,
+      -3.0,
+      3.5
+    ],
+    "new_position": [
+      -0.35,
+      -0.9,
+      1.78
+    ],
+    "old_power": 190.0,
+    "new_power": 9.207754135131836
+  },
+  "Studio_Fill": {
+    "old_position": [
+      2.0,
+      -1.5,
+      2.0
+    ],
+    "new_position": [
+      0.4,
+      -0.8,
+      1.6
+    ],
+    "old_power": 60.0,
+    "new_power": 5.706684112548828
+  },
+  "Studio_Rim": {
+    "old_position": [
+      0.0,
+      1.7000000476837158,
+      2.799999952316284
+    ],
+    "new_position": [
+      0,
+      0.4,
+      1.8
+    ],
+    "old_power": 130.0,
+    "new_power": 7.1280517578125
+  }
+}

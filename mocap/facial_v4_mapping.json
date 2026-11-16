@@ -1,0 +1,282 @@
+{
+  "mesh": "APJ_Face",
+  "controller": "APJ_Face_Controls",
+  "coefficients": {
+    "browInnerUp": {
+      "type": "shape_key",
+      "target": "browInnerUp",
+      "property": "browInnerUp"
+    },
+    "browOuterUpLeft": {
+      "type": "shape_key",
+      "target": "browOuterUpLeft",
+      "property": "browOuterUpLeft"
+    },
+    "browOuterUpRight": {
+      "type": "shape_key",
+      "target": "browOuterUpRight",
+      "property": "browOuterUpRight"
+    },
+    "browDownLeft": {
+      "type": "shape_key",
+      "target": "browDownLeft",
+      "property": "browDownLeft"
+    },
+    "browDownRight": {
+      "type": "shape_key",
+      "target": "browDownRight",
+      "property": "browDownRight"
+    },
+    "eyeBlinkLeft": {
+      "type": "shape_key",
+      "target": "eyeBlinkLeft",
+      "property": "eyeBlinkLeft"
+    },
+    "eyeBlinkRight": {
+      "type": "shape_key",
+      "target": "eyeBlinkRight",
+      "property": "eyeBlinkRight"
+    },
+    "eyeWideLeft": {
+      "type": "shape_key",
+      "target": "eyeWideLeft",
+      "property": "eyeWideLeft"
+    },
+    "eyeWideRight": {
+      "type": "shape_key",
+      "target": "eyeWideRight",
+      "property": "eyeWideRight"
+    },
+    "eyeSquintLeft": {
+      "type": "shape_key",
+      "target": "eyeSquintLeft",
+      "property": "eyeSquintLeft"
+    },
+    "eyeSquintRight": {
+      "type": "shape_key",
+      "target": "eyeSquintRight",
+      "property": "eyeSquintRight"
+    },
+    "cheekSquintLeft": {
+      "type": "shape_key",
+      "target": "cheekSquintLeft",
+      "property": "cheekSquintLeft"
+    },
+    "cheekSquintRight": {
+      "type": "shape_key",
+      "target": "cheekSquintRight",
+      "property": "cheekSquintRight"
+    },
+    "jawOpen": {
+      "type": "shape_key",
+      "target": "jawOpen",
+      "property": "jawOpen"
+    },
+    "jawLeft": {
+      "type": "shape_key",
+      "target": "jawLeft",
+      "property": "jawLeft"
+    },
+    "jawRight": {
+      "type": "shape_key",
+      "target": "jawRight",
+      "property": "jawRight"
+    },
+    "jawForward": {
+      "type": "shape_key",
+      "target": "jawForward",
+      "property": "jawForward"
+    },
+    "mouthSmileLeft": {
+      "type": "shape_key",
+      "target": "mouthSmileLeft",
+      "property": "mouthSmileLeft"
+    },
+    "mouthSmileRight": {
+      "type": "shape_key",
+      "target": "mouthSmileRight",
+      "property": "mouthSmileRight"
+    },
+    "mouthFrownLeft": {
+      "type": "shape_key",
+      "target": "mouthFrownLeft",
+      "property": "mouthFrownLeft"
+    },
+    "mouthFrownRight": {
+      "type": "shape_key",
+      "target": "mouthFrownRight",
+      "property": "mouthFrownRight"
+    },
+    "mouthStretchLeft": {
+      "type": "shape_key",
+      "target": "mouthStretchLeft",
+      "property": "mouthStretchLeft"
+    },
+    "mouthStretchRight": {
+      "type": "shape_key",
+      "target": "mouthStretchRight",
+      "property": "mouthStretchRight"
+    },
+    "mouthPucker": {
+      "type": "shape_key",
+      "target": "mouthPucker",
+      "property": "mouthPucker"
+    },
+    "mouthFunnel": {
+      "type": "shape_key",
+      "target": "mouthFunnel",
+      "property": "mouthFunnel"
+    },
+    "mouthClose": {
+      "type": "shape_key",
+      "target": "mouthClose",
+      "property": "mouthClose"
+    },
+    "mouthPressLeft": {
+      "type": "shape_key",
+      "target": "mouthPressLeft",
+      "property": "mouthPressLeft"
+    },
+    "mouthPressRight": {
+      "type": "shape_key",
+      "target": "mouthPressRight",
+      "property": "mouthPressRight"
+    },
+    "mouthUpperUpLeft": {
+      "type": "shape_key",
+      "target": "mouthUpperUpLeft",
+      "property": "mouthUpperUpLeft"
+    },
+    "mouthUpperUpRight": {
+      "type": "shape_key",
+      "target": "mouthUpperUpRight",
+      "property": "mouthUpperUpRight"
+    },
+    "mouthLowerDownLeft": {
+      "type": "shape_key",
+      "target": "mouthLowerDownLeft",
+      "property": "mouthLowerDownLeft"
+    },
+    "mouthLowerDownRight": {
+      "type": "shape_key",
+      "target": "mouthLowerDownRight",
+      "property": "mouthLowerDownRight"
+    },
+    "cheekPuff": {
+      "type": "shape_key",
+      "target": "cheekPuff",
+      "property": "cheekPuff"
+    },
+    "noseSneerLeft": {
+      "type": "shape_key",
+      "target": "noseSneerLeft",
+      "property": "noseSneerLeft"
+    },
+    "noseSneerRight": {
+      "type": "shape_key",
+      "target": "noseSneerRight",
+      "property": "noseSneerRight"
+    },
+    "mouthDimpleLeft": {
+      "type": "shape_key",
+      "target": "mouthDimpleLeft",
+      "property": "mouthDimpleLeft"
+    },
+    "mouthDimpleRight": {
+      "type": "shape_key",
+      "target": "mouthDimpleRight",
+      "property": "mouthDimpleRight"
+    },
+    "mouthLeft": {
+      "type": "shape_key",
+      "target": "mouthLeft",
+      "property": "mouthLeft"
+    },
+    "mouthRight": {
+      "type": "shape_key",
+      "target": "mouthRight",
+      "property": "mouthRight"
+    },
+    "mouthRollLower": {
+      "type": "shape_key",
+      "target": "mouthRollLower",
+      "property": "mouthRollLower"
+    },
+    "mouthRollUpper": {
+      "type": "shape_key",
+      "target": "mouthRollUpper",
+      "property": "mouthRollUpper"
+    },
+    "mouthShrugLower": {
+      "type": "shape_key",
+      "target": "mouthShrugLower",
+      "property": "mouthShrugLower"
+    },
+    "mouthShrugUpper": {
+      "type": "shape_key",
+      "target": "mouthShrugUpper",
+      "property": "mouthShrugUpper"
+    }
+  },
+  "joint_controls": {
+    "eyeLookUpLeft": {
+      "type": "eye_bone",
+      "property": "eyeLookUpLeft",
+      "bone": "Eye.L"
+    },
+    "eyeLookDownLeft": {
+      "type": "eye_bone",
+      "property": "eyeLookDownLeft",
+      "bone": "Eye.L"
+    },
+    "eyeLookInLeft": {
+      "type": "eye_bone",
+      "property": "eyeLookInLeft",
+      "bone": "Eye.L"
+    },
+    "eyeLookOutLeft": {
+      "type": "eye_bone",
+      "property": "eyeLookOutLeft",
+      "bone": "Eye.L"
+    },
+    "eyeLookUpRight": {
+      "type": "eye_bone",
+      "property": "eyeLookUpRight",
+      "bone": "Eye.R"
+    },
+    "eyeLookDownRight": {
+      "type": "eye_bone",
+      "property": "eyeLookDownRight",
+      "bone": "Eye.R"
+    },
+    "eyeLookInRight": {
+      "type": "eye_bone",
+      "property": "eyeLookInRight",
+      "bone": "Eye.R"
+    },
+    "eyeLookOutRight": {
+      "type": "eye_bone",
+      "property": "eyeLookOutRight",
+      "bone": "Eye.R"
+    }
+  },
+  "neutral": {
+    "_neutral": {
+      "type": "implicit_zero_pose",
+      "note": "No deformation target. Zero expression scores are the neutral pose; neutral score does not override simultaneous coefficients."
+    }
+  },
+  "official_source": "https://raw.githubusercontent.com/google-ai-edge/mediapipe/master/mediapipe/tasks/python/vision/face_landmarker.py",
+  "supported_non_neutral_coefficients": 51,
+  "conversion_coverage_including_neutral": 52,
+  "status": "Conversion coverage tested synthetically; not live-capture or FACS anatomical certification",
+  "left_right": "Subject anatomical sides; unmirror detector output upstream",
+  "wrinkle_correctives": [
+    "WRINKLE_BrowRaise",
+    "WRINKLE_Frown",
+    "WRINKLE_SmileLeft",
+    "WRINKLE_SmileRight",
+    "WRINKLE_SquintLeft",
+    "WRINKLE_SquintRight"
+  ]
+}

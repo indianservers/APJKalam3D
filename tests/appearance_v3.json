@@ -1,0 +1,49 @@
+{
+  "blend": "blender/apj_appearance_v3_master.blend",
+  "glb": "exports/apj_appearance_v3.glb",
+  "baked_maps": {
+    "Albedo": {
+      "size": [
+        4096,
+        4096
+      ],
+      "path": "C:\\Abdul Kalam\\textures\\appearance_v3\\APJ_v3_Baked_Albedo_4K.png"
+    },
+    "Roughness": {
+      "size": [
+        4096,
+        4096
+      ],
+      "path": "C:\\Abdul Kalam\\textures\\appearance_v3\\APJ_v3_Baked_Roughness_4K.png"
+    },
+    "Normal": {
+      "size": [
+        4096,
+        4096
+      ],
+      "path": "C:\\Abdul Kalam\\textures\\appearance_v3\\APJ_v3_Baked_Normal_4K.png"
+    }
+  },
+  "generated_source_resolution": [
+    1254,
+    1254
+  ],
+  "generator": "built-in image_gen",
+  "hair_strands": 660,
+  "bones": 59,
+  "facial_prototype_targets": 7,
+  "missing_textures": [],
+  "export_exclusions": [
+    "Cinematic fine hair curves",
+    "Transparent corneal reflection overlays",
+    "Procedural dynamic wrinkle driver"
+  ],
+  "limitations": [
+    "Generated appearance reconstruction, not measured scan data",
+    "Single frontal source; side/back retain original atlas detail",
+    "Coarse existing facial geometry limits likeness",
+    "Corneal layers do not implement separate eye rotation or eyelid rig",
+    "No claim of native 4K generated detail",
+    "Neutral rigged export has no animation clips"
+  ]
+}

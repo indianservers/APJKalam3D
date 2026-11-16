@@ -1,0 +1,244 @@
+{
+  "hands": 2,
+  "fingers": 10,
+  "nail_plates": 10,
+  "topology": {
+    "Left": {
+      "vertices": 2403,
+      "faces": 2440,
+      "quads": 2362,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0,
+      "unweighted_vertices": 0,
+      "max_weight_sum_error": 1.4901161193847656e-08
+    },
+    "Right": {
+      "vertices": 2403,
+      "faces": 2440,
+      "quads": 2362,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0,
+      "unweighted_vertices": 0,
+      "max_weight_sum_error": 1.4901161193847656e-08
+    }
+  },
+  "joint_tests": [
+    {
+      "bone": "LeftHandThumb1",
+      "hand_vertex_displacement_m": 0.03107833420409413,
+      "nail_displacement_m": 0.029816834677667818,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandThumb2",
+      "hand_vertex_displacement_m": 0.019768591675270078,
+      "nail_displacement_m": 0.018606163683534137,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandThumb3",
+      "hand_vertex_displacement_m": 0.01000857174591021,
+      "nail_displacement_m": 0.00912928156980142,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandIndex1",
+      "hand_vertex_displacement_m": 0.03591029230056733,
+      "nail_displacement_m": 0.03376681612457243,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandIndex2",
+      "hand_vertex_displacement_m": 0.022845450047834115,
+      "nail_displacement_m": 0.020784339952016492,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandIndex3",
+      "hand_vertex_displacement_m": 0.01156884160187172,
+      "nail_displacement_m": 0.009760926630231224,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandMiddle1",
+      "hand_vertex_displacement_m": 0.040375262844508736,
+      "nail_displacement_m": 0.037563728993847474,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandMiddle2",
+      "hand_vertex_displacement_m": 0.025685867900385292,
+      "nail_displacement_m": 0.022962646805922814,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandMiddle3",
+      "hand_vertex_displacement_m": 0.013007125379892572,
+      "nail_displacement_m": 0.010562092056534854,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandRing1",
+      "hand_vertex_displacement_m": 0.03680301499004602,
+      "nail_displacement_m": 0.03451836997325567,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandRing2",
+      "hand_vertex_displacement_m": 0.023413670489403553,
+      "nail_displacement_m": 0.021207684173844575,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandRing3",
+      "hand_vertex_displacement_m": 0.011856625248506721,
+      "nail_displacement_m": 0.009894867072190361,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandPinky1",
+      "hand_vertex_displacement_m": 0.02968173335242203,
+      "nail_displacement_m": 0.027805015410556473,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandPinky2",
+      "hand_vertex_displacement_m": 0.018903921695343537,
+      "nail_displacement_m": 0.017085878369343208,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandPinky3",
+      "hand_vertex_displacement_m": 0.009582257126038787,
+      "nail_displacement_m": 0.007993962422027821,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandThumb1",
+      "hand_vertex_displacement_m": 0.031078869624416756,
+      "nail_displacement_m": 0.029816930173920474,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandThumb2",
+      "hand_vertex_displacement_m": 0.019768946018438704,
+      "nail_displacement_m": 0.018606280726542437,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandThumb3",
+      "hand_vertex_displacement_m": 0.010008639320058813,
+      "nail_displacement_m": 0.009129169159096083,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandIndex1",
+      "hand_vertex_displacement_m": 0.03591055445672098,
+      "nail_displacement_m": 0.033766919126831774,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandIndex2",
+      "hand_vertex_displacement_m": 0.022845695576035926,
+      "nail_displacement_m": 0.020784466804054515,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandIndex3",
+      "hand_vertex_displacement_m": 0.011569104325042311,
+      "nail_displacement_m": 0.009760925942504231,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandMiddle1",
+      "hand_vertex_displacement_m": 0.04037530823974291,
+      "nail_displacement_m": 0.03756385891767661,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandMiddle2",
+      "hand_vertex_displacement_m": 0.02568596513259535,
+      "nail_displacement_m": 0.02296287363241171,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandMiddle3",
+      "hand_vertex_displacement_m": 0.013007176664695565,
+      "nail_displacement_m": 0.010562210061370337,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandRing1",
+      "hand_vertex_displacement_m": 0.03680302375449244,
+      "nail_displacement_m": 0.03451886220446959,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandRing2",
+      "hand_vertex_displacement_m": 0.023413381005541974,
+      "nail_displacement_m": 0.021207900721300323,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandRing3",
+      "hand_vertex_displacement_m": 0.011856353986414311,
+      "nail_displacement_m": 0.009894986206238288,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandPinky1",
+      "hand_vertex_displacement_m": 0.029681904400524792,
+      "nail_displacement_m": 0.02780524776268921,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandPinky2",
+      "hand_vertex_displacement_m": 0.018903979450583638,
+      "nail_displacement_m": 0.017086015478413954,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    },
+    {
+      "bone": "RightHandPinky3",
+      "hand_vertex_displacement_m": 0.009582334163082658,
+      "nail_displacement_m": 0.007993963855963716,
+      "opposite_hand_displacement_m": 0.0,
+      "pass": true
+    }
+  ],
+  "all_pass": true,
+  "scope": "Independent deformation, nail attachment, weights and mesh health. Not anatomical or photorealism certification.",
+  "limitations": [
+    "Wrist join is concealed inside cuff, not welded to the body mesh",
+    "Reconstructed hand anatomy needs artist review for final production",
+    "No captured finger-motion validation"
+  ]
+}

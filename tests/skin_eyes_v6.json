@@ -1,0 +1,19 @@
+{
+  "skin_materials": [
+    "APJ_v4_Facial_Skin",
+    "APJ_Aged_Hand_Skin",
+    "APJ_v3_Head_Skin_And_Silver_Hair (skin branch only)"
+  ],
+  "skin_linear_multiplier": [
+    0.72,
+    0.7,
+    0.67
+  ],
+  "skin_saturation": 0.9,
+  "iris": "deep brown",
+  "pupil": "near-black",
+  "reference": "Dr. Kalam\u2019s Welcoming Wave.png",
+  "note": "Individual appearance reference used; nationality does not prescribe one skin tone or eye color",
+  "geometry_and_rig_changed": false,
+  "source": "apj_likeness_v5_master.blend"
+}

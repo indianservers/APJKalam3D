@@ -1,0 +1,24 @@
+{
+  "changes": {
+    "APJ_Face": {
+      "moved_vertices": 2344,
+      "max_displacement_m": 0.0007801989019587102
+    },
+    "char1": {
+      "moved_vertices": 81,
+      "max_displacement_m": 0.0007673032371860194
+    },
+    "APJ_v5_Skin_Transition_Underlay": {
+      "moved_vertices": 2269,
+      "max_displacement_m": 0.0007801989019587102
+    }
+  },
+  "regions": [
+    "nose tip projection and alar fullness",
+    "relaxed mouth corner lift",
+    "lower lip and chin transition",
+    "softened nasolabial relief"
+  ],
+  "targets_preserved": 51,
+  "limitations": "Reference-guided approximation; no numerical likeness score. Existing unwelded head join retained."
+}

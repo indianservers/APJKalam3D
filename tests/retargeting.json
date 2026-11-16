@@ -1,0 +1,17 @@
+{
+  "source": "synthetic landmarks, no webcam",
+  "calibrated_bones": [
+    "LeftArm",
+    "LeftForeArm",
+    "LeftLeg",
+    "LeftUpLeg",
+    "RightArm",
+    "RightForeArm",
+    "RightLeg",
+    "RightUpLeg"
+  ],
+  "arm_rotation_radians": 0.9272936582565308,
+  "face_response": 0.9999991655349731,
+  "loss_recovery_radians": 0.0,
+  "pass": true
+}

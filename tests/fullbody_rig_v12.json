@@ -1,0 +1,39 @@
+{
+  "bone_count": 87,
+  "finger_joints": 30,
+  "rib_controls": 24,
+  "rib_weighted_vertices": {
+    "Rib.L.01": 10,
+    "Rib.R.01": 10,
+    "Rib.L.02": 5,
+    "Rib.R.02": 5,
+    "Rib.L.03": 7,
+    "Rib.R.03": 7,
+    "Rib.L.04": 14,
+    "Rib.R.04": 8,
+    "Rib.L.05": 23,
+    "Rib.R.05": 20,
+    "Rib.L.06": 34,
+    "Rib.R.06": 27,
+    "Rib.L.07": 12,
+    "Rib.R.07": 16,
+    "Rib.L.08": 7,
+    "Rib.R.08": 7,
+    "Rib.L.09": 3,
+    "Rib.R.09": 7,
+    "Rib.L.10": 4,
+    "Rib.R.10": 8,
+    "Rib.L.11": 15,
+    "Rib.R.11": 18,
+    "Rib.L.12": 22,
+    "Rib.R.12": 28,
+    "Sternum": 59
+  },
+  "production_ready": false,
+  "limitations": [
+    "Individual ribs inferred from torso, not directly tracked",
+    "Single-view capture has occlusion/depth ambiguity",
+    "Coat is not a cloth simulation",
+    "Existing facial patch is not welded"
+  ]
+}

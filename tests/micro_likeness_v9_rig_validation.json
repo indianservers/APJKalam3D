@@ -1,0 +1,468 @@
+{
+  "production_ready": false,
+  "expression_tests": [
+    {
+      "control": "browInnerUp",
+      "max_evaluated_displacement_m": 0.006489904424869471,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "browOuterUpLeft",
+      "max_evaluated_displacement_m": 0.005969405174255371,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "browOuterUpRight",
+      "max_evaluated_displacement_m": 0.005969524383544922,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "browDownLeft",
+      "max_evaluated_displacement_m": 0.005404749611499806,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "browDownRight",
+      "max_evaluated_displacement_m": 0.0054047496114818325,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "eyeBlinkLeft",
+      "max_evaluated_displacement_m": 0.004686003406319151,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "eyeBlinkRight",
+      "max_evaluated_displacement_m": 0.004684881938679894,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "eyeWideLeft",
+      "max_evaluated_displacement_m": 0.002454920242547889,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "eyeWideRight",
+      "max_evaluated_displacement_m": 0.002452980116824817,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "eyeSquintLeft",
+      "max_evaluated_displacement_m": 0.0019663336798160253,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "eyeSquintRight",
+      "max_evaluated_displacement_m": 0.001966051056931579,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "cheekSquintLeft",
+      "max_evaluated_displacement_m": 0.0034684346863846282,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "cheekSquintRight",
+      "max_evaluated_displacement_m": 0.003468437672670639,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "jawOpen",
+      "max_evaluated_displacement_m": 0.02240548244218555,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "jawLeft",
+      "max_evaluated_displacement_m": 0.0030000098049640656,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "jawRight",
+      "max_evaluated_displacement_m": 0.0030000098049640656,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "jawForward",
+      "max_evaluated_displacement_m": 0.003000028431415558,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthSmileLeft",
+      "max_evaluated_displacement_m": 0.008170566870030828,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthSmileRight",
+      "max_evaluated_displacement_m": 0.008172552915066349,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthFrownLeft",
+      "max_evaluated_displacement_m": 0.004510062876953677,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthFrownRight",
+      "max_evaluated_displacement_m": 0.004509946942028226,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthStretchLeft",
+      "max_evaluated_displacement_m": 0.005899947983820281,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthStretchRight",
+      "max_evaluated_displacement_m": 0.0058999109349653755,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthPucker",
+      "max_evaluated_displacement_m": 0.005143218607138903,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthFunnel",
+      "max_evaluated_displacement_m": 0.005416669759126495,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthClose",
+      "max_evaluated_displacement_m": 0.015039564235914132,
+      "shape_value": 0.7000000476837158,
+      "pass": true
+    },
+    {
+      "control": "mouthPressLeft",
+      "max_evaluated_displacement_m": 0.0012259710437321609,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthPressRight",
+      "max_evaluated_displacement_m": 0.0012258759590373762,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthUpperUpLeft",
+      "max_evaluated_displacement_m": 0.002873447639108255,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthUpperUpRight",
+      "max_evaluated_displacement_m": 0.002872742561726893,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthLowerDownLeft",
+      "max_evaluated_displacement_m": 0.003642516109482613,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthLowerDownRight",
+      "max_evaluated_displacement_m": 0.003647393224113032,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "cheekPuff",
+      "max_evaluated_displacement_m": 0.0035168454135641658,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "noseSneerLeft",
+      "max_evaluated_displacement_m": 0.00344690878948686,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "noseSneerRight",
+      "max_evaluated_displacement_m": 0.0034469070809394022,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthDimpleLeft",
+      "max_evaluated_displacement_m": 0.003198811738447109,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthDimpleRight",
+      "max_evaluated_displacement_m": 0.0031988995556798665,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthLeft",
+      "max_evaluated_displacement_m": 0.003979581470048288,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthRight",
+      "max_evaluated_displacement_m": 0.0039795813463570084,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthRollLower",
+      "max_evaluated_displacement_m": 0.0023968465187646972,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthRollUpper",
+      "max_evaluated_displacement_m": 0.0022234107297563776,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthShrugLower",
+      "max_evaluated_displacement_m": 0.0033330501289856253,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "mouthShrugUpper",
+      "max_evaluated_displacement_m": 0.002782176048817033,
+      "shape_value": 1.0,
+      "pass": true
+    },
+    {
+      "control": "eyeLookUpLeft",
+      "rotation_radians": {
+        "Left": 0.19199992716312408,
+        "Right": 0.0
+      },
+      "centre_errors_m": {
+        "Left": 2.2351741790771484e-08,
+        "Right": 0.0
+      },
+      "pass": true
+    },
+    {
+      "control": "eyeLookDownLeft",
+      "rotation_radians": {
+        "Left": 0.19199992716312408,
+        "Right": 0.0
+      },
+      "centre_errors_m": {
+        "Left": 2.2351741790771484e-08,
+        "Right": 0.0
+      },
+      "pass": true
+    },
+    {
+      "control": "eyeLookInLeft",
+      "rotation_radians": {
+        "Left": 0.22399920225143433,
+        "Right": 0.0
+      },
+      "centre_errors_m": {
+        "Left": 7.450580596923828e-09,
+        "Right": 0.0
+      },
+      "pass": true
+    },
+    {
+      "control": "eyeLookOutLeft",
+      "rotation_radians": {
+        "Left": 0.22399920225143433,
+        "Right": 0.0
+      },
+      "centre_errors_m": {
+        "Left": 3.725290298461914e-09,
+        "Right": 0.0
+      },
+      "pass": true
+    },
+    {
+      "control": "eyeLookUpRight",
+      "rotation_radians": {
+        "Left": 0.0,
+        "Right": 0.19199992716312408
+      },
+      "centre_errors_m": {
+        "Left": 0.0,
+        "Right": 2.2351741790771484e-08
+      },
+      "pass": true
+    },
+    {
+      "control": "eyeLookDownRight",
+      "rotation_radians": {
+        "Left": 0.0,
+        "Right": 0.19199992716312408
+      },
+      "centre_errors_m": {
+        "Left": 0.0,
+        "Right": 2.2351741790771484e-08
+      },
+      "pass": true
+    },
+    {
+      "control": "eyeLookInRight",
+      "rotation_radians": {
+        "Left": 0.0,
+        "Right": 0.22399920225143433
+      },
+      "centre_errors_m": {
+        "Left": 0.0,
+        "Right": 0.0
+      },
+      "pass": true
+    },
+    {
+      "control": "eyeLookOutRight",
+      "rotation_radians": {
+        "Left": 0.0,
+        "Right": 0.22400027513504028
+      },
+      "centre_errors_m": {
+        "Left": 0.0,
+        "Right": 0.0
+      },
+      "pass": true
+    },
+    {
+      "control": "gazeHorizontal",
+      "rotation_radians": {
+        "Left": 0.22399920225143433,
+        "Right": 0.22399920225143433
+      },
+      "centre_errors_m": {
+        "Left": 3.725290298461914e-09,
+        "Right": 0.0
+      },
+      "pass": true
+    },
+    {
+      "control": "gazeVertical",
+      "rotation_radians": {
+        "Left": 0.19199992716312408,
+        "Right": 0.19199992716312408
+      },
+      "centre_errors_m": {
+        "Left": 2.2351741790771484e-08,
+        "Right": 2.2351741790771484e-08
+      },
+      "pass": true
+    }
+  ],
+  "jaw": {
+    "rotation_radians": 0.1599999964237213,
+    "upper_teeth_displacement_m": 0.0,
+    "lower_teeth_displacement_m": 0.016193524078444637,
+    "tongue_displacement_m": 0.015109887078728646,
+    "pass": true
+  },
+  "blink_occlusion": [
+    {
+      "side": "Left",
+      "neutral_covered_fraction": 0.0,
+      "blink_covered_fraction": 1.0,
+      "other_eye_covered_fraction": 0.0,
+      "pass": true
+    },
+    {
+      "side": "Right",
+      "neutral_covered_fraction": 0.0,
+      "blink_covered_fraction": 1.0,
+      "other_eye_covered_fraction": 0.0,
+      "pass": true
+    }
+  ],
+  "geometric_wrinkle": {
+    "driven_value": 1.0,
+    "isolated_geometry_displacement_m": 0.00016699731349945068,
+    "pass": true
+  },
+  "combinations": [
+    {
+      "label": "smile_jaw",
+      "max_displacement_m": 0.014453212265301208,
+      "finite": true,
+      "pass": true
+    },
+    {
+      "label": "blink_wide",
+      "max_displacement_m": 0.004686003406319151,
+      "finite": true,
+      "closed_eye_covered_fraction": 1.0,
+      "pass": true
+    },
+    {
+      "label": "blink_squint",
+      "max_displacement_m": 0.004686003406319151,
+      "finite": true,
+      "closed_eye_covered_fraction": 1.0,
+      "pass": true
+    },
+    {
+      "label": "frown",
+      "max_displacement_m": 0.004330681096245599,
+      "finite": true,
+      "pass": true
+    },
+    {
+      "label": "funnel_jaw",
+      "max_displacement_m": 0.01101282553838229,
+      "finite": true,
+      "pass": true
+    },
+    {
+      "label": "pucker",
+      "max_displacement_m": 0.0036002613379961836,
+      "finite": true,
+      "pass": true
+    }
+  ],
+  "reset_error_m": 0.0,
+  "topology": {
+    "vertices": 9204,
+    "quads": 8948,
+    "faces": 8948,
+    "junction_edges": 0,
+    "boundary_edges": 516,
+    "rest_degenerate_faces": 0
+  },
+  "all_functional_checks_pass": true,
+  "limitations": [
+    "Reconstructed face overlaps the original head; not a welded full-head retopology",
+    "Skin contact uses Blender shrinkwrap correction",
+    "Artistic expression shapes require production review",
+    "No live capture or automated audio synchronization tested",
+    "Extreme expressions and broad phoneme coverage remain limited"
+  ]
+}

@@ -1,0 +1,113 @@
+[
+  {
+    "frame": 30,
+    "label": "BROWS",
+    "controls": {
+      "browInnerUp": 0.9,
+      "browOuterUpLeft": 0.55,
+      "browOuterUpRight": 0.55
+    }
+  },
+  {
+    "frame": 75,
+    "label": "FROWN",
+    "controls": {
+      "browDownLeft": 0.8,
+      "browDownRight": 0.8
+    }
+  },
+  {
+    "frame": 120,
+    "label": "SMILE",
+    "controls": {
+      "mouthSmileLeft": 0.75,
+      "mouthSmileRight": 0.75,
+      "cheekSquintLeft": 0.2,
+      "cheekSquintRight": 0.2
+    }
+  },
+  {
+    "frame": 165,
+    "label": "SQUINT",
+    "controls": {
+      "eyeSquintLeft": 0.7,
+      "eyeSquintRight": 0.7
+    }
+  },
+  {
+    "frame": 210,
+    "label": "BLINK_BOTH",
+    "controls": {
+      "eyeBlinkLeft": 1.0,
+      "eyeBlinkRight": 1.0
+    }
+  },
+  {
+    "frame": 240,
+    "label": "BLINK_LEFT",
+    "controls": {
+      "eyeBlinkLeft": 1.0
+    }
+  },
+  {
+    "frame": 270,
+    "label": "BLINK_RIGHT",
+    "controls": {
+      "eyeBlinkRight": 1.0
+    }
+  },
+  {
+    "frame": 315,
+    "label": "JAW_OPEN",
+    "controls": {
+      "jawOpen": 0.7
+    }
+  },
+  {
+    "frame": 360,
+    "label": "PUCKER",
+    "controls": {
+      "mouthPucker": 0.7
+    }
+  },
+  {
+    "frame": 405,
+    "label": "FUNNEL",
+    "controls": {
+      "jawOpen": 0.3,
+      "mouthFunnel": 0.6
+    }
+  },
+  {
+    "frame": 450,
+    "label": "GAZE_LEFT",
+    "controls": {
+      "gazeHorizontal": 0.8
+    }
+  },
+  {
+    "frame": 480,
+    "label": "GAZE_UP",
+    "controls": {
+      "gazeVertical": 0.7
+    }
+  },
+  {
+    "frame": 525,
+    "label": "SMILE_AND_JAW",
+    "controls": {
+      "jawOpen": 0.45,
+      "mouthSmileLeft": 0.55,
+      "mouthSmileRight": 0.55
+    }
+  },
+  {
+    "frame": 570,
+    "label": "SPEECH_E",
+    "controls": {
+      "jawOpen": 0.2,
+      "mouthStretchLeft": 0.55,
+      "mouthStretchRight": 0.55
+    }
+  }
+]

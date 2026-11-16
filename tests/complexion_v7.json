@@ -1,0 +1,20 @@
+{
+  "appearance_target": "Deeper golden-brown complexion from the supplied individual reference",
+  "linear_skin_multiplier": [
+    0.46,
+    0.37,
+    0.26
+  ],
+  "skin_saturation": 1.02,
+  "specular_level": 0.2,
+  "subsurface_weight": 0.055,
+  "materials": [
+    "APJ_v4_Facial_Skin",
+    "APJ_Aged_Hand_Skin",
+    "APJ_v3_Head_Skin_And_Silver_Hair"
+  ],
+  "lighting": "Warm-neutral fill replacing blue fill; softer rim",
+  "eye_color": "Dark brown, retained from v6",
+  "geometry_and_controls_changed": false,
+  "skin_only_mask": "Original albedo red-minus-blue pigment mask; preserves silver hair pixels"
+}

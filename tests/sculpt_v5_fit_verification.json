@@ -1,0 +1,8 @@
+{
+  "before_mean_eye_aligned_image_plane_error_m": 0.005198408200055318,
+  "measured_after_mean_error_m": 0.0040610661434305135,
+  "improvement_fraction": 0.2187866002159472,
+  "scope": "Detector-estimated 2D landmarks aligned at the eyes. This is a fitting guide, not a biometric similarity score or an exact 3D match.",
+  "reference": "Dr. Kalam\u2019s Welcoming Wave.png",
+  "render": "renders/sculpt_v5_reference_pose_front.png"
+}

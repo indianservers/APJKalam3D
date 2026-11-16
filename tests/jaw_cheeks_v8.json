@@ -1,0 +1,33 @@
+{
+  "reference": "references/apj_jaw_reference_v8.png",
+  "regions": [
+    "jaw angle and jowl width",
+    "posterior cheek volume",
+    "rounded chin transition",
+    "face/head overlap band"
+  ],
+  "changes": {
+    "APJ_Face": {
+      "moved_vertices": 3845,
+      "max_displacement_m": 0.0030146657676229436
+    },
+    "char1": {
+      "moved_vertices": 423,
+      "max_displacement_m": 0.002961013657621581
+    },
+    "APJ_v5_Skin_Transition_Underlay": {
+      "moved_vertices": 3764,
+      "max_displacement_m": 0.003018062683914255
+    }
+  },
+  "overlap_max_correction_m": 0.0016191474567635602,
+  "shape_targets_preserved": 51,
+  "notes": [
+    "Localized sculpt; eyes/nose/forehead and material tone retained",
+    "Original v7 master preserved",
+    "Single portrait does not fully constrain the hidden rear cheek profile",
+    "Existing facial patch is still not a welded full-head surface"
+  ],
+  "join_render_correction": "Cycles overlap-only shadow mask and non-shadow-casting concealed skin backing; topology is not welded",
+  "rig_validation": "tests/jaw_cheeks_v8_rig_validation.json"
+}

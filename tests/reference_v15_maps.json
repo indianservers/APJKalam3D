@@ -1,0 +1,12 @@
+{
+  "APJ_Face": {
+    "Color": "C:\\Abdul Kalam/textures/reference_v15/APJ15_APJ_Face_Color.png",
+    "Roughness": "C:\\Abdul Kalam/textures/reference_v15/APJ15_APJ_Face_Roughness.png",
+    "Normal": "C:\\Abdul Kalam/textures/reference_v15/APJ15_APJ_Face_Normal.png"
+  },
+  "char1": {
+    "Color": "C:\\Abdul Kalam/textures/reference_v15/APJ15_char1_Color.png",
+    "Roughness": "C:\\Abdul Kalam/textures/reference_v15/APJ15_char1_Roughness.png",
+    "Normal": "C:\\Abdul Kalam/textures/reference_v15/APJ15_char1_Normal.png"
+  }
+}

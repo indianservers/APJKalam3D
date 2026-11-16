@@ -1,0 +1,201 @@
+{
+  "bones": 59,
+  "hands": 2,
+  "nails": 10,
+  "joint_tests": [
+    {
+      "bone": "LeftHandThumb1",
+      "skin_displacement_m": 0.027701378574542714,
+      "nail_displacement_m": 0.026551504191429966,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandThumb2",
+      "skin_displacement_m": 0.0176306020293186,
+      "nail_displacement_m": 0.016568741734013015,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandThumb3",
+      "skin_displacement_m": 0.008939212733136435,
+      "nail_displacement_m": 0.008130454676266892,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandIndex1",
+      "skin_displacement_m": 0.0320054485097123,
+      "nail_displacement_m": 0.030069089281632162,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandIndex2",
+      "skin_displacement_m": 0.020371849492073286,
+      "nail_displacement_m": 0.01850945807002563,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandIndex3",
+      "skin_displacement_m": 0.010330365800283025,
+      "nail_displacement_m": 0.008695267601536258,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandMiddle1",
+      "skin_displacement_m": 0.035984680774629,
+      "nail_displacement_m": 0.03344993628556368,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandMiddle2",
+      "skin_displacement_m": 0.022904149926288826,
+      "nail_displacement_m": 0.020449134515039297,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandMiddle3",
+      "skin_displacement_m": 0.011613936291803276,
+      "nail_displacement_m": 0.009408582710602955,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandRing1",
+      "skin_displacement_m": 0.03280093159656539,
+      "nail_displacement_m": 0.030738167999401576,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandRing2",
+      "skin_displacement_m": 0.020877959789943355,
+      "nail_displacement_m": 0.018886097777518172,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandRing3",
+      "skin_displacement_m": 0.010586696133444939,
+      "nail_displacement_m": 0.008814119887552504,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandPinky1",
+      "skin_displacement_m": 0.026454182192795217,
+      "nail_displacement_m": 0.02476069180983829,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandPinky2",
+      "skin_displacement_m": 0.016857055050595218,
+      "nail_displacement_m": 0.0152158602214369,
+      "pass": true
+    },
+    {
+      "bone": "LeftHandPinky3",
+      "skin_displacement_m": 0.008556505798465655,
+      "nail_displacement_m": 0.007120013468929656,
+      "pass": true
+    },
+    {
+      "bone": "RightHandThumb1",
+      "skin_displacement_m": 0.027701562904166643,
+      "nail_displacement_m": 0.02655160613964314,
+      "pass": true
+    },
+    {
+      "bone": "RightHandThumb2",
+      "skin_displacement_m": 0.017630948755699885,
+      "nail_displacement_m": 0.016569115507089862,
+      "pass": true
+    },
+    {
+      "bone": "RightHandThumb3",
+      "skin_displacement_m": 0.008939730413988333,
+      "nail_displacement_m": 0.008130938995700561,
+      "pass": true
+    },
+    {
+      "bone": "RightHandIndex1",
+      "skin_displacement_m": 0.03200536228102667,
+      "nail_displacement_m": 0.030068939459208407,
+      "pass": true
+    },
+    {
+      "bone": "RightHandIndex2",
+      "skin_displacement_m": 0.02037185734633643,
+      "nail_displacement_m": 0.01850959911020126,
+      "pass": true
+    },
+    {
+      "bone": "RightHandIndex3",
+      "skin_displacement_m": 0.010330440420630155,
+      "nail_displacement_m": 0.008695355847223635,
+      "pass": true
+    },
+    {
+      "bone": "RightHandMiddle1",
+      "skin_displacement_m": 0.035984449003752014,
+      "nail_displacement_m": 0.033449733764961874,
+      "pass": true
+    },
+    {
+      "bone": "RightHandMiddle2",
+      "skin_displacement_m": 0.022903942918461158,
+      "nail_displacement_m": 0.020448752128580442,
+      "pass": true
+    },
+    {
+      "bone": "RightHandMiddle3",
+      "skin_displacement_m": 0.011614349540257697,
+      "nail_displacement_m": 0.009408887520189622,
+      "pass": true
+    },
+    {
+      "bone": "RightHandRing1",
+      "skin_displacement_m": 0.032801102938577076,
+      "nail_displacement_m": 0.030738273862340782,
+      "pass": true
+    },
+    {
+      "bone": "RightHandRing2",
+      "skin_displacement_m": 0.020878039466782117,
+      "nail_displacement_m": 0.018886219975933264,
+      "pass": true
+    },
+    {
+      "bone": "RightHandRing3",
+      "skin_displacement_m": 0.010586631981921765,
+      "nail_displacement_m": 0.008814116063602401,
+      "pass": true
+    },
+    {
+      "bone": "RightHandPinky1",
+      "skin_displacement_m": 0.026454070606958428,
+      "nail_displacement_m": 0.024760583858648526,
+      "pass": true
+    },
+    {
+      "bone": "RightHandPinky2",
+      "skin_displacement_m": 0.016856719107884926,
+      "nail_displacement_m": 0.01521563767592019,
+      "pass": true
+    },
+    {
+      "bone": "RightHandPinky3",
+      "skin_displacement_m": 0.008556300797116589,
+      "nail_displacement_m": 0.007119890855168556,
+      "pass": true
+    }
+  ],
+  "pass": true,
+  "textures": {
+    "Left": [
+      "APJ_Hands_Albedo_Transferred_Clean_2K",
+      "APJ_Hands_Roughness_2K.001",
+      "APJ_Hands_Normal_2K.001"
+    ],
+    "Right": [
+      "APJ_Hands_Albedo_Transferred_Clean_2K",
+      "APJ_Hands_Roughness_2K.001",
+      "APJ_Hands_Normal_2K.001"
+    ]
+  },
+  "export_mode": "neutral rigged mesh; subdivision disabled in GLB, no animation clips"
+}

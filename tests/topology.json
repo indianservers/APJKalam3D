@@ -1,0 +1,7 @@
+{
+  "vertices": 5188,
+  "triangles": 10372,
+  "boundary_edges": 12,
+  "nonmanifold_edges_including_boundaries": 20,
+  "production_clean_topology": false
+}
